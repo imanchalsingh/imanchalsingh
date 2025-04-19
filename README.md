@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Anchal Singh!  
-## 💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🚀 MERN Stack Learner  
+##  Frontend Developer |  UI/UX Enthusiast |  MERN Stack Learner  | Problem Solver
 
 Passionate about building **interactive** and **scalable** web applications.  
 Focused on crafting **seamless UI/UX experiences**.  
