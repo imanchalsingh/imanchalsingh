@@ -1,18 +1,16 @@
 # 👋 Hey, I'm Anchal Singh!  
 ## Full-Stack Developer |  Tech Enthusiast | Problem Solver
 
-Passionate about building **interactive** and **scalable** web applications.  
-Focused on crafting **seamless UI/UX experiences**.  
-Currently exploring **Back-End & Full-Stack Development**.
+I'm a Web Developer expanding my skills into **Full-Stack Development**.
+Working on **Back-End projects** and leveling up in **DSA** to become a stronger problem solver.  
+Love creating **interactive and scalable web apps**!
 
----
 
 ### 📊 GitHub Stats
 
 ![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=chartreuse-dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=chartreuse-dark)
 
----
 
 ## 🛠️ Tech Stack & Skills  
 
@@ -40,15 +38,13 @@ Currently exploring **Back-End & Full-Stack Development**.
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
 
 ### 📈 GitHub Activity  
 ![Profile Views](https://komarev.com/ghpvc/?username=imanchalsingh&color=green)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imanchalsingh)
 
----
 
 ### ✨ Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanchalsingh/)](https://www.linkedin.com/in/imanchalsingh/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://portfolio-imanchalsingh.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)]([https:///](https://portfolio-omega-inky-shytavg8gu.vercel.app/))
 
