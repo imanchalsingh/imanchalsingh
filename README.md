@@ -30,6 +30,11 @@ Love creating **interactive and scalable web apps**!
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
 
 ### 🧰 Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
