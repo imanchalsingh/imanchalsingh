@@ -2,7 +2,7 @@
 ## Full-Stack Developer |  Tech Enthusiast | Problem Solver
 
 I'm a Web Developer expanding my skills into **Full-Stack Development**.
-Working on **Back-End projects** and leveling up in **DSA** to become a stronger problem solver.  
+Working on **Web/MERN** and **Full-Stack projects** and leveling up in **DSA** to become a stronger problem solver.  
 Love creating **interactive and scalable web apps**!
 
 
