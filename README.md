@@ -8,8 +8,8 @@ Love creating **interactive and scalable web apps**!
 
 ### 📊 GitHub Stats
 
-![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=chartreuse-dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=chartreuse-dark)
+![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact)
 
 
 ## 🛠️ Tech Stack & Skills  
