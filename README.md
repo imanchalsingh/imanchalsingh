@@ -5,8 +5,6 @@ I’m a Web Developer expanding my skills into **Full-Stack Development**.
 Currently building **Web/MERN** projects and sharpening my **DSA** skills to become a stronger problem solver.  
 Love creating **interactive, scalable, and impactful web apps** . 
 
----
-
 ## GitHub Stats  
 
 <p align="center">
