@@ -16,6 +16,31 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 </div>
 
+<br>
+
+<div align="center">
+
+<!-- Blue Ocean Theme -->
+![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imanchalsingh&theme=github_dark)
+
+</div>
+
+<br>
+
+---
+
+## 📈 Detailed Metrics  
+
+<div align="center">
+
+<!-- Metrics Cards -->
+| | | 
+|:---:|:---:|
+| ![Metrics](https://metrics.lecoq.io/imanchalsingh?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata) | ![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-1.2%20Million%20Lines%20of%20Code-blue)
+| **GitHub Metrics** | **Code Contribution**
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack & Skills  
