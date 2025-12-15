@@ -106,14 +106,6 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imanchalsingh&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📝 Latest Blog Posts / Projects  
 - 🔗 [Personal Portfolio Website](https://portfolio-omega-inky-shytavg8gu.vercel.app/)  
 - 📄 [Blog: Building Scalable APIs with NestJS](#)  
