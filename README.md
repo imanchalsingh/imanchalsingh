@@ -9,19 +9,23 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 <div align="center">
 
-![Anchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imanchalsingh&theme=radical&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imanchalsingh&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
+![Anchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&line_height=24)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=imanchalsingh&theme=github-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imanchalsingh&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
 
 </div>
+
 
 <br>
 
 <div align="center">
 
-<!-- Blue Ocean Theme -->
-![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imanchalsingh&theme=github_dark)
+<!-- Profile Summary Cards -->
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imanchalsingh&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imanchalsingh&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imanchalsingh&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imanchalsingh&theme=github_dark&utcOffset=5.5)
 
 </div>
 
@@ -29,15 +33,25 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 ---
 
-## 📈 Detailed Metrics  
+## 📈 Detailed Metrics & Analytics  
 
 <div align="center">
 
-<!-- Metrics Cards -->
-| | | 
+| | |
 |:---:|:---:|
-| ![Metrics](https://metrics.lecoq.io/imanchalsingh?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata) | ![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-1.2%20Million%20Lines%20of%20Code-blue)
-| **GitHub Metrics** | **Code Contribution**
+| ![Metrics](https://metrics.lecoq.io/imanchalsingh?template=classic&isocalendar=1&languages=1&followup=1&people=1&projects=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&tweets=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata) | ![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=imanchalsingh&theme=github_dark&hide_border=true&layout=compact&custom_title=Weekly%20Development%20Breakdown) |
+| **Comprehensive GitHub Analytics** | **WakaTime Development Metrics** |
+
+<br>
+
+| | |
+|:---:|:---:|
+| ![Contribution Calendar](https://github.com/imanchalsingh/imanchalsingh/blob/output/github-contribution-grid-snake.svg) | ![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5M%2B%20Lines%20of%20Code-blue?style=for-the-badge&logo=visualstudiocode) <br><br> ![Commits](https://img.shields.io/badge/Total%20Commits-850%2B-success?style=for-the-badge&logo=git) <br><br> ![PRs](https://img.shields.io/badge/Pull%20Requests-120%2B-important?style=for-the-badge&logo=githubactions) |
+| **Contribution Snake Game** | **Key Coding Milestones** |
+
+<br>
+
+![Trophy Case](https://github-profile-trophy.vercel.app/?username=imanchalsingh&theme=github_dark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10)
 
 </div>
 
