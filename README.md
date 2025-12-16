@@ -37,21 +37,9 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| ![Metrics](https://metrics.lecoq.io/imanchalsingh?template=classic&isocalendar=1&languages=1&followup=1&people=1&projects=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&tweets=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata) | ![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=imanchalsingh&theme=github_dark&hide_border=true&layout=compact&custom_title=Weekly%20Development%20Breakdown) |
-| **Comprehensive GitHub Analytics** | **WakaTime Development Metrics** |
+![Metrics](https://metrics.lecoq.io/imanchalsingh?template=classic&isocalendar=1&languages=1&followup=1&people=1&projects=1&activity=1&achievements=1&notable=1&discussions=1&lines=1&tweets=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata) 
 
 <br>
-
-| | |
-|:---:|:---:|
-| ![Contribution Calendar](https://github.com/imanchalsingh/imanchalsingh/blob/output/github-contribution-grid-snake.svg) | ![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5M%2B%20Lines%20of%20Code-blue?style=for-the-badge&logo=visualstudiocode) <br><br> ![Commits](https://img.shields.io/badge/Total%20Commits-850%2B-success?style=for-the-badge&logo=git) <br><br> ![PRs](https://img.shields.io/badge/Pull%20Requests-120%2B-important?style=for-the-badge&logo=githubactions) |
-| **Contribution Snake Game** | **Key Coding Milestones** |
-
-<br>
-
-![Trophy Case](https://github-profile-trophy.vercel.app/?username=imanchalsingh&theme=github_dark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10)
 
 </div>
 
