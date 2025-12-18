@@ -87,11 +87,8 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 ---
 
-## 📝 Latest Blog Posts / Projects  
-- 🔗 [Personal Portfolio Website](https://portfolio-omega-inky-shytavg8gu.vercel.app/)  
-- 📄 [Blog: Building Scalable APIs with NestJS](#)  
-- 🚀 [Project: E-commerce MERN Stack Application](#)  
-- 📊 [Data Analysis: COVID-19 Trends Visualization](#)  
+## 📝 Projects  
+- 🔗 [Personal Portfolio Website](https://portfolio-omega-inky-shytavg8gu.vercel.app/)   
 
 ---
 
