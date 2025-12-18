@@ -9,16 +9,17 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=default&hide_border=true&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=imanchalsingh&theme=default&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=imanchalsingh&theme=github-dark&hide_border=true" height="170" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imanchalsingh&theme=minimal&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imanchalsingh&theme=github-dark&hide_border=true" />
+
+<img src="https://codolio.com/profile/imanchalsingh?theme=dark" />
 
 </div>
-
 
 <br>
 
