@@ -9,10 +9,10 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 <div align="center">
 
-![Anchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&line_height=24)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-![GitHub Streak](https://streak-stats.demolab.com?user=imanchalsingh&theme=github-dark&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imanchalsingh&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
+![Anchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=github_light&hide_border=true&include_all_commits=true&count_private=true&line_height=24)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=github_light&hide_border=true&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=imanchalsingh&theme=github-light&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imanchalsingh&theme=github-light&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
 
 </div>
 
@@ -22,10 +22,10 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 <div align="center">
 
 <!-- Profile Summary Cards -->
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imanchalsingh&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imanchalsingh&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imanchalsingh&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imanchalsingh&theme=github_dark&utcOffset=5.5)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imanchalsingh&theme=github_light)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imanchalsingh&theme=github_light)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imanchalsingh&theme=github_light)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imanchalsingh&theme=github_light&utcOffset=5.5)
 
 </div>
 
