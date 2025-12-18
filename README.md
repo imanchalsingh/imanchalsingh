@@ -17,7 +17,9 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imanchalsingh&theme=github-dark&hide_border=true" />
 
-<img src="https://codolio.com/profile/imanchalsingh?theme=dark" />
+<br>
+
+<img src="https://codolio.com/profile/imanchalsingh?theme=dark" width="90%" />
 
 </div>
 
