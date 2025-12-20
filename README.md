@@ -19,7 +19,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 <br>
 
-<img src="https://codolio.com/profile/imanchalsingh?theme=dark" width="90%" />
+<img src="https://codolio.com/profile/imanchalsingh?theme=github_dark" width="90%" />
 
 </div>
 
