@@ -15,8 +15,6 @@ I'm a passionate **Full-Stack Developer** with expertise in building **interacti
 
 <img src="https://streak-stats.demolab.com?user=imanchalsingh&theme=github_dark&hide_border=true" height="170" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imanchalsingh&theme=github-dark&hide_border=true" />
-
 </div>
 
 <br>
