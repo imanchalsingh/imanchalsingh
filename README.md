@@ -1,7 +1,7 @@
 # Hey, I'm **Anchal Singh**  
 ### Full-Stack Developer | Tech Enthusiast | Problem Solver  
 
-I'm a passionate **Full-Stack Developer** with expertise in building **interactive, scalable, and high-performance web applications**. Currently expanding my skills in **MERN stack, MEAN stack, cloud technologies, and system design** while actively solving **DSA problems** to enhance problem-solving abilities. Always eager to learn, innovate, and contribute to impactful tech solutions.
+I'm a **Software Engineer Aspirant** and currently exploring **Full-Stack Development** with expertise in building **interactive, scalable, and high-performance web applications**. Currently expanding my skills in **MERN stack, MEAN stack, cloud technologies, and system design** while actively solving **DSA problems** to enhance problem-solving abilities. Always eager to learn, innovate, and contribute to impactful tech solutions.
 
 ---
 
