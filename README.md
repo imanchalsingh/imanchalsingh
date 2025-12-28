@@ -1,4 +1,4 @@
-# Hey, I'm Anchal Singh 
+# 𝔸𝕟𝕔𝕙𝕒𝕝 𝕊𝕚𝕟𝕘𝕙 ✪
 
 ### Full-Stack Developer | Tech Enthusiast | Problem Solver
 
@@ -6,24 +6,24 @@ I'm a **Software Engineer Aspirant** exploring Full-Stack Development with exper
 
 ---
 
-### Tech Stack & Expertise
+### </> Tech Stack & Expertise
 
-**Frontend**
+**⚛ Frontend**
 * **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 * **Frameworks:** React.js, Next.js, Angular
 * **Styling:** Tailwind CSS, MUI, Bootstrap, Redux
 
-**Backend & Databases**
+**⛯ Backend & Databases**
 * **Runtime/Frameworks:** Node.js, Express.js, NestJS, FastAPI
 * **Databases:** MongoDB, PostgreSQL, MySQL, Redis
 
-**Tools & Platforms**
+**⛴ Tools & Platforms**
 * **DevOps/Tools:** Git, GitHub, Docker, Postman
 * **Deployment:** Vercel, Netlify
 
 ---
 
-### GitHub Insights
+<!--### GitHub Insights
 
 <div align="center">
 
@@ -31,9 +31,9 @@ I'm a **Software Engineer Aspirant** exploring Full-Stack Development with exper
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="160" />
 <img src="https://streak-stats.demolab.com?user=imanchalsingh&theme=tokyonight&hide_border=true" height="160" />
 
-</div>
+</div>-->
 
-### Featured Projects
+### ⎙ Featured Projects
 
 * **[ParkFinder](https://github.com/imanchalsingh/parkfinder)** – A full-stack solution to find and book parking spots.
 * **[MindMap](https://github.com/imanchalsingh/mindmap)** – Interactive tool to visualize workflows using React & TS.
@@ -41,7 +41,7 @@ I'm a **Software Engineer Aspirant** exploring Full-Stack Development with exper
 
 ---
 
-### Let's Connect!
+### ☞ Let's Connect!
 
 * **LinkedIn:** [/in/imanchalsingh](https://www.linkedin.com/in/imanchalsingh/)
 * **Twitter:** [@imanchalsingh](https://x.com/imanchalsingh)
