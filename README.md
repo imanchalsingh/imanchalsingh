@@ -3,23 +3,21 @@
 
 I'm a **Software Engineer Aspirant** and currently exploring **Full-Stack Development** with expertise in building **interactive, scalable, and high-performance web applications**. Currently expanding my skills in **MERN stack, MEAN stack, cloud technologies, and system design** while actively solving **DSA problems** to enhance problem-solving abilities. Always eager to learn, innovate, and contribute to impactful tech solutions.
 
----
-
-## 📊 GitHub Stats & Insights  
+## 📊 GitHub Stats & Insights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+<!-- Row 1 -->
+<img src="https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=pie&theme=radical&langs_count=8&hide_border=false" height="160" />
+<img src="https://streak-stats.demolab.com?user=imanchalsingh&theme=radical&hide_border=false" height="160" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
-
-<img src="https://streak-stats.demolab.com?user=imanchalsingh&theme=github_dark&hide_border=true" height="170" />
+<!-- Row 2 -->
+<img src="https://activity-graph.herokuapp.com/graph?username=imanchalsingh&theme=react-dark&area=true&hide_border=false" />
 
 </div>
 
-<br>
 
----
 
 ## 🛠️ Tech Stack & Skills  
 
@@ -48,7 +46,7 @@ I'm a **Software Engineer Aspirant** and currently exploring **Full-Stack Develo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### **Data Science & Analysis**  
+<!-- ### **Data Science & Analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -61,7 +59,7 @@ I'm a **Software Engineer Aspirant** and currently exploring **Full-Stack Develo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) -->
 
 ### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,8 +70,6 @@ I'm a **Software Engineer Aspirant** and currently exploring **Full-Stack Develo
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
-
 ## 📈 GitHub Activity & Metrics  
 
 <p align="center">
@@ -82,12 +78,8 @@ I'm a **Software Engineer Aspirant** and currently exploring **Full-Stack Develo
   <img src="https://img.shields.io/github/stars/imanchalsingh?style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
 </p>
 
----
-
 ## 📝 Projects  
 - 🔗 [Personal Portfolio Website](https://portfolio-omega-inky-shytavg8gu.vercel.app/)   
-
----
 
 ## 🤝 Let's Connect!  
 
@@ -105,8 +97,6 @@ I'm a **Software Engineer Aspirant** and currently exploring **Full-Stack Develo
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
-
----
 
 ⭐ *From [Anchal Singh](https://github.com/imanchalsingh)*  
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
