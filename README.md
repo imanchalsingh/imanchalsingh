@@ -17,7 +17,7 @@ I'm a **Software Engineer Aspirant** exploring Full-Stack Development with exper
 * **Runtime/Frameworks:** Node.js, Express.js, NestJS, FastAPI
 * **Databases:** MongoDB, PostgreSQL, MySQL, Redis
 
-**⚒ Tools & Platforms**
+**{_} Tools & Platforms**
 * **DevOps/Tools:** Git, GitHub, Docker, Postman
 * **Deployment:** Vercel, Netlify
 
