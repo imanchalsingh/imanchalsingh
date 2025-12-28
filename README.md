@@ -25,12 +25,13 @@ I'm a **Software Engineer Aspirant** exploring Full-Stack Development with exper
 
 ### GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=imanchalsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanchalsingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="160" />
+<img src="https://streak-stats.demolab.com?user=imanchalsingh&theme=tokyonight&hide_border=true" height="160" />
+
+</div>
 
 ### Featured Projects
 
