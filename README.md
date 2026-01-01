@@ -1,6 +1,6 @@
 # 𝔸𝕟𝕔𝕙𝕒𝕝 𝕊𝕚𝕟𝕘𝕙 ✪
 
-### Full-Stack Developer | Tech Enthusiast | Problem Solver
+### Full-Stack Developer | Problem Solver
 
 I'm a **Software Engineer Aspirant** exploring Full-Stack Development with expertise in building interactive, scalable, and high-performance web applications. Currently expanding my skills in **MERN, MEAN, Cloud technologies, and System Design**.
 
