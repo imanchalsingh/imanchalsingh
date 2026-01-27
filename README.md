@@ -16,14 +16,14 @@ I'm a **Software Engineer Aspirant** exploring Full-Stack Development with exper
 **⛯ Backend & Databases**
 * **Runtime/Frameworks:** Node.js, Express.js, NestJS, FastAPI
 * **Databases:** MongoDB, PostgreSQL, MySQL
-* **ORM:** Mongoose, Primsa
+* **ORM:** Mongoose, Prisma
 
 **{_} Tools & Platforms**
 * **DevOps/Tools:** Git, GitHub, Docker, Postman
 * **Deployment:** Vercel, Netlify
 
 **>> Others**
-* Redux, Router, SVG, Rect, React-Draggable
+* Redux, React Router, SVG, Canvas(Rect), React-Draggable
 ---
 
 <!--### GitHub Insights
