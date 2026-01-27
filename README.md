@@ -11,16 +11,19 @@ I'm a **Software Engineer Aspirant** exploring Full-Stack Development with exper
 **⚝ Frontend**
 * **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 * **Frameworks:** React.js, Next.js, Angular
-* **Styling:** Tailwind CSS, MUI, Bootstrap, Redux
+* **Styling:** Tailwind CSS, MUI, Bootstrap
 
 **⛯ Backend & Databases**
 * **Runtime/Frameworks:** Node.js, Express.js, NestJS, FastAPI
-* **Databases:** MongoDB, PostgreSQL, MySQL, Redis
+* **Databases:** MongoDB, PostgreSQL, MySQL
+* **ORM:** Mongoose, Primsa
 
 **{_} Tools & Platforms**
 * **DevOps/Tools:** Git, GitHub, Docker, Postman
 * **Deployment:** Vercel, Netlify
 
+**>> Others**
+* Redux, Router, SVG, Rect, React-Draggable
 ---
 
 <!--### GitHub Insights
