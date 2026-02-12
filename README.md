@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Problem Solver
 
-I'm a **Software Engineer Aspirant** exploring Full-Stack Development with expertise in building interactive, scalable, and high-performance web applications. Currently expanding my skills in **MERN, MEAN, Cloud technologies, and System Design**.
+I'm a **Software Engineer Aspirant** exploring Full-Stack Development with expertise in building interactive, scalable, and high-performance web applications. Currently expanding my skills in **MERN, Cloud technologies, and System Design**.
 
 ---
 
@@ -10,17 +10,17 @@ I'm a **Software Engineer Aspirant** exploring Full-Stack Development with exper
 
 **⚝ Frontend**
 * **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-* **Frameworks:** React.js, Next.js, Angular
+* **Frameworks:** React.js, Next.js,
 * **Styling:** Tailwind CSS, MUI, Bootstrap
 
 **⛯ Backend & Databases**
-* **Runtime/Frameworks:** Node.js, Express.js, NestJS, FastAPI
-* **Databases:** MongoDB, PostgreSQL, MySQL
+* **Runtime/Frameworks:** Node.js, Express.js, FastAPI
+* **Databases:** MongoDB, SQL
 * **ORM:** Mongoose, Prisma
 
 **{_} Tools & Platforms**
 * **DevOps/Tools:** Git, GitHub, Docker, Postman
-* **Deployment:** Vercel, Netlify
+* **Deployment:** Vercel, Netlify, Render
 
 **>> Others**
 * Redux, React Router, SVG, Canvas(Rect), React-Draggable
