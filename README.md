@@ -38,9 +38,10 @@ I'm a **Software Engineer Aspirant** exploring Full-Stack Development with exper
 
 ### ⎙ Featured Projects
 
-* **[ParkFinder](https://github.com/imanchalsingh/parkfinder)** – A full-stack solution to find and book parking spots.
-* **[MindMap](https://github.com/imanchalsingh/mindmap)** – Interactive tool to visualize workflows using React & TS.
-* **[Personal Portfolio](https://portfolio-omega-inky-shytavg8gu.vercel.app/)** – My digital resume and showcase.
+* **[ParkFinder](https://parkfinder-three.vercel.app/)** – A full-stack solution to find and book parking spots.
+* **[MindMap](https://mindmapx.vercel.app/)** – Interactive tool to visualize workflows using React & TS.
+* **[ShareVault](https://file-sharing-system-lake.vercel.app)** - A full-MERN-stack file sharing system.
+* **[Personal Portfolio](https://my-portfolio-imanchalsingh.vercel.app/)** – My digital resume and showcase.
 
 ---
 
