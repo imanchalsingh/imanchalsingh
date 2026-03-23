@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Problem Solver
 
-I'm a **Software Engineer Aspirant** exploring Full-Stack Development with expertise in building interactive, scalable, and high-performance web applications. Currently expanding my skills in **MERN, Cloud technologies, and System Design**.
+Passionate **Software Engineer** specializing in full-stack architecture and interactive UI/UX. From crafting intuitive frontends to building robust backends with Node.js & MongoDB, I thrive on tackling technical challenges. Currently exploring the intersection of Cloud computing and System Scalability.
 
 ---
 
