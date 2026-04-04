@@ -6,29 +6,29 @@ Passionate **Software Engineer** specializing in full-stack architecture and int
 
 ---
 
-### </> 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
+### 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
 
 **𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕**
-* **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-* **Frameworks:** React.js, Next.js,
-* **Styling:** Tailwind CSS, MUI, Bootstrap
-* **State Management & Routing:** Redux, React Router
+* **𝙲𝚘𝚛𝚎:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+* **𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜:** React.js, Next.js,
+* **𝚂𝚝𝚢𝚕𝚒𝚗𝚐:** Tailwind CSS, MUI, Bootstrap
+* **𝚂𝚝𝚊𝚝𝚎 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 & 𝚁𝚘𝚞𝚝𝚒𝚗𝚐:** Redux, React Router
 
 **𝑩𝒂𝒄𝒌𝒆𝒏𝒅 & 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆**
-* **Runtime/Frameworks:** Node.js, Express.js, FastAPI
-* **Databases:** MongoDB, SQL
-* **ORM:** Mongoose, Prisma
-* **API Development:** Rest APIs, Postman testing
+* **𝚁𝚞𝚗𝚝𝚒𝚖𝚎 & 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜:** Node.js, Express.js, FastAPI
+* **𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜:** MongoDB, SQL
+* **𝙾𝚁𝙼:** Mongoose, Prisma
+* **𝙰𝙿𝙸 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝:** Rest APIs, Postman testing
   
 **𝑫𝒂𝒕𝒂 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 & 𝑽𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏**
-* **Programming:** Python
-* **Libraries & Tools:** Pandas, Matplotlib
-* **Environment:** Jupyter Notebook, Pycharm
-* **Analytics &.BI:** Power BI, MS Excel, Kaggle
+* **𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐:** Python
+* **𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜:** Pandas, Matplotlib
+* **𝙴𝚗𝚟𝚒𝚘𝚗𝚖𝚎𝚗𝚝:** Jupyter Notebook, Pycharm
+* **𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 & 𝙱𝙸:** Power BI, MS Excel, Kaggle
   
 **𝑻𝒐𝒐𝒍𝒔 & 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕**
-* **DevOps/Tools:** Git, GitHub, Docker
-* **Deployment:** Vercel, Netlify, Render
+* **𝙳𝚎𝚟𝙾𝚙𝚜 & 𝚃𝚘𝚘𝚕𝚜:** Git, GitHub, Docker
+* **𝙳𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝:** Vercel, Netlify, Render
 
 ---
 
@@ -51,7 +51,7 @@ Passionate **Software Engineer** specializing in full-stack architecture and int
 
 ---
 
-### ☞ 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭
+### 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭
 
 * **LinkedIn:** [/in/imanchalsingh](https://www.linkedin.com/in/imanchalsingh/)
 * **Twitter:** [@imanchalsingh](https://x.com/imanchalsingh)
