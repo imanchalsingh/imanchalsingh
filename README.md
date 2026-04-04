@@ -1,6 +1,6 @@
 # 𝔸𝕟𝕔𝕙𝕒𝕝 𝕊𝕚𝕟𝕘𝕙 ✪
 
-### Full-Stack Developer | Problem Solver
+### Full-Stack Developer | Problem Solver | Data Analytics
 
 Passionate **Software Engineer** specializing in full-stack architecture and interactive UI/UX. From crafting intuitive frontends to building robust backends with Node.js & MongoDB, I thrive on tackling technical challenges. Currently exploring the intersection of Cloud computing and System Scalability.
 
