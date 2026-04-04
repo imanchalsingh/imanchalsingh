@@ -8,21 +8,21 @@ Passionate **Software Engineer** specializing in full-stack architecture and int
 
 ### </> Tech Stack & Expertise
 
-**⚝ Frontend**
+**➤ Frontend**
 * **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 * **Frameworks:** React.js, Next.js,
 * **Styling:** Tailwind CSS, MUI, Bootstrap
 
-**⛯ Backend & Databases**
+**➤ Backend & Databases**
 * **Runtime/Frameworks:** Node.js, Express.js, FastAPI
 * **Databases:** MongoDB, SQL
 * **ORM:** Mongoose, Prisma
 
-**{_} Tools & Platforms**
+**➤ Tools & Platforms**
 * **DevOps/Tools:** Git, GitHub, Docker, Postman
 * **Deployment:** Vercel, Netlify, Render
 
-**>> Others**
+**➤ Others**
 * Redux, React Router, SVG, Canvas(Rect), React-Draggable
 ---
 
@@ -36,7 +36,7 @@ Passionate **Software Engineer** specializing in full-stack architecture and int
 
 </div>-->
 
-### ⎙ Featured Projects
+### ➤ Featured Projects
 
 * **[ParkFinder](https://parkfinder-three.vercel.app/)** – A full-stack solution to find and book parking spots.
 * **[MindMap](https://mindmapx.vercel.app/)** – Interactive tool to visualize workflows using React & TS.
