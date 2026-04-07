@@ -45,9 +45,9 @@
 
 ### 𝖫𝖾𝗍'𝗌 𝖢𝗈𝗇𝗇𝖾𝖼𝗍
 
-* **𝖫𝗂𝗇𝗄𝖾𝖽𝖨𝗇:** https://www.linkedin.com/in/imanchalsingh/
-* **𝖳𝗐𝗂𝗍𝗍𝖾𝗋:** https://x.com/imanchalsingh
-* **𝖤𝗆𝖺𝗂𝗅:** singhanchal159357@gmail.com
+**[𝖫𝗂𝗇𝗄𝖾𝖽𝖨𝗇](https://www.linkedin.com/in/imanchalsingh/)**
+**[𝖳𝗐𝗂𝗍𝗍𝖾𝗋](https://x.com/imanchalsingh)**
+- **𝖤𝗆𝖺𝗂𝗅:** singhanchal159357@gmail.com
 
 ---
 
