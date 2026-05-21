@@ -36,10 +36,11 @@
 
 ### 𝖥𝖾𝖺𝗍𝗎𝗋𝖾𝖽 𝖯𝗋𝗈𝗃𝖾𝖼𝗍𝗌
 
-* **[𝖯𝖺𝗋𝗄𝖥𝗂𝗇𝖽𝖾𝗋](https://parkfinder-three.vercel.app/)** – 𝖠 𝖿𝗎𝗅𝗅-𝗌𝗍𝖺𝖼𝗄 𝗉𝗅𝖺𝗍𝖿𝗈𝗋𝗆 𝗍𝗁𝖺𝗍 𝗁𝖾𝗅𝗉𝗌 𝗎𝗌𝖾𝗋𝗌 𝗅𝗈𝖼𝖺𝗍𝖾, 𝖼𝗈𝗆𝗉𝖺𝗋𝖾, 𝖺𝗇𝖽 𝖻𝗈𝗈𝗄 𝗉𝖺𝗋𝗄𝗂𝗇𝗀 𝗌𝗉𝖺𝖼𝖾𝗌 𝗂𝗇 𝗋𝖾𝖺𝗅 𝗍𝗂𝗆𝖾.
+* **[SmartPark](https://parkfinder-three.vercel.app/)** – 𝖠 Parking slot finder - 𝖿𝗎𝗅𝗅-𝗌𝗍𝖺𝖼𝗄 𝗉𝗅𝖺𝗍𝖿𝗈𝗋𝗆 𝗍𝗁𝖺𝗍 𝗁𝖾𝗅𝗉𝗌 𝗎𝗌𝖾𝗋𝗌 𝗅𝗈𝖼𝖺𝗍𝖾, 𝖼𝗈𝗆𝗉𝖺𝗋𝖾, 𝖺𝗇𝖽 𝖻𝗈𝗈𝗄 𝗉𝖺𝗋𝗄𝗂𝗇𝗀 𝗌𝗉𝖺𝖼𝖾𝗌 𝗂𝗇 𝗋𝖾𝖺𝗅 𝗍𝗂𝗆𝖾.
 * **[𝖬𝗂𝗇𝖽𝖬𝖺𝗉𝖷](https://mindmapx.vercel.app/)** – 𝖠𝗇 𝗂𝗇𝗍𝖾𝗋𝖺𝖼𝗍𝗂𝗏𝖾 𝗐𝗈𝗋𝗄𝖿𝗅𝗈𝗐 𝖺𝗇𝖽 𝗂𝖽𝖾𝖺 𝗏𝗂𝗌𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇 𝗍𝗈𝗈𝗅 𝖻𝗎𝗂𝗅𝗍 𝗐𝗂𝗍𝗁 𝖱𝖾𝖺𝖼𝗍 𝖺𝗇𝖽 𝖳𝗒𝗉𝖾𝖲𝖼𝗋𝗂𝗉𝗍.
 * **[𝖲𝗁𝖺𝗋𝖾𝖵𝖺𝗎𝗅𝗍](https://file-sharing-system-lake.vercel.app)** – 𝖠 𝖬𝖤𝖱𝖭-𝖻𝖺𝗌𝖾𝖽 𝗌𝖾𝖼𝗎𝗋𝖾 𝖿𝗂𝗅𝖾 𝗌𝗁𝖺𝗋𝗂𝗇𝗀 𝖺𝗇𝖽 𝖽𝗈𝖼𝗎𝗆𝖾𝗇𝗍 𝖽𝗂𝗌𝗍𝗋𝗂𝖻𝗎𝗍𝗂𝗈𝗇 𝗌𝗒𝗌𝗍𝖾𝗆.
 * **[𝖯𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈](https://my-portfolio-imanchalsingh.vercel.app/)** – 𝖠 𝖽𝗂𝗀𝗂𝗍𝖺𝗅 𝗉𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈 𝗌𝗁𝗈𝖼𝖺𝗌𝗂𝗇𝗀 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌, 𝗌𝗄𝗂𝗅𝗅𝗌, 𝖺𝗇𝖽 𝗍𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖾𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝖾.
+* **[SmartCampus](https://collegems-zeta.vercel.app/)** - A College management system build with MERN.
 
 ---
 
